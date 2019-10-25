@@ -177,8 +177,7 @@ public class EndPageController : MonoBehaviour
           
             childIndex++;
         }
-        return childIndex;
-
+        return 11;
 
     }
    

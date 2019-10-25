@@ -434,7 +434,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7953609096328911801
 Transform:
   m_ObjectHideFlags: 0
@@ -465,12 +465,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Obstacle:
-  - {fileID: 8663962171802286732, guid: 5a144beb893a5a745bbd9e8912b41b41, type: 3}
-  - {fileID: 3676636306389329166, guid: 7860ae18536a27d4c83edcfd7dcd56f1, type: 3}
-  - {fileID: 6296111141628077186, guid: cc783df0e5c385d4b824f2687212d4e1, type: 3}
-  - {fileID: 3358409253176191217, guid: edcf591e11905934baf68cf781071a84, type: 3}
-  - {fileID: 5194224321008601938, guid: 1465419106ac89c498d14f879a5f38cf, type: 3}
-  - {fileID: 5668196514476607552, guid: efa48443cec23a645a9e15c937c04eae, type: 3}
+  - {fileID: 5422254961177757693, guid: 23c96b163d7aa744fa6e53319b00fd09, type: 3}
+  - {fileID: 3575844111322105600, guid: 358225e64dfab024b8518a852be368de, type: 3}
+  - {fileID: 4221767569491130556, guid: 686bbc0f68532c84a95a85e50abd84e1, type: 3}
+  - {fileID: 4166055583941785262, guid: b10fdbd809db72745bb42002d6366c7d, type: 3}
+  - {fileID: 7000026033555447817, guid: 4f2b8401fc2e4ed4daa928c08501e292, type: 3}
+  - {fileID: 972958826223403914, guid: d075e70c0a3107f47a77de3702710f16, type: 3}
   ObstacleSpeed:
   - 0
   - 0
@@ -506,7 +506,7 @@ Transform:
   m_GameObject: {fileID: 8180468234538043955}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4.85, y: 1.5, z: 0}
-  m_LocalScale: {x: 0.26053008, y: 0.14654818, z: 0.01628313}
+  m_LocalScale: {x: 0.25538465, y: 0.25538465, z: 0.25538465}
   m_Children:
   - {fileID: 7953609096328911801}
   - {fileID: 2620573338533918690}

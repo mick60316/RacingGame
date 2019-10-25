@@ -30,7 +30,7 @@ public class Track : MonoBehaviour
         
         if (other.tag == "Car")
         {
-            trackManager.CreateTrack(transform.position + new Vector3(0, 11.25f*2, 0), transform.rotation);
+            trackManager.CreateTrack(transform.position + new Vector3(0, 19.41f*2, 0), transform.rotation);
             print("Track Hit "+other.name);
         }
         
